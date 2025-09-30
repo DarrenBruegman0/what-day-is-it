@@ -1,0 +1,24 @@
+print 
+    1) monday
+    2) tuesday
+    3) wednesday
+    4) thursday
+    5) friday
+    6) saturday
+    7) sunday
+input int 
+case
+1:
+    print monday
+2:
+    print tuesday
+3:
+    print wednesday
+4:
+    print thursday
+5:
+    print friday
+6:
+    print weekend
+7:
+    print weekend
