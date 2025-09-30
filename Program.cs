@@ -1,2 +1,49 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿//list all options
+Console.WriteLine("1)      Monday");
+Console.WriteLine("1)     Tuesday");
+Console.WriteLine("1)   Wednesday");
+Console.WriteLine("1)    Thursday");
+Console.WriteLine("1)      Friday");
+Console.WriteLine("1)    Saturday");
+Console.WriteLine("1)      Sunday");
+//input the specified option
+Console.Write("What day is it (Enter the Number)?   ");
+int num = Convert.ToInt32(Console.ReadLine());
+string display_text;
+
+/*
+If the user enters 1 → Output: "Aack! I hate Mondays!"
+If the user enters 3 → Output: "Hump Daaaay!"
+If the user enters 5 → Output: "TGIF!"
+If the user enters 6 or 7 → Output: "It's the weekend!"
+If the user enters 2 or 4 → Output: "It's Tuesday!" or "It's Thursday!" (respectively).
+*/
+switch (num)
+{
+    case 1:
+        display_text = "Aack! I hate Mondays!";
+        break;
+    case 2:
+        display_text = "It's Tuesday!";
+        break;
+    case 3:
+        display_text = "Hump Daaaay!";
+        break;
+    case 4:
+        display_text = "It's Thursday!";
+        break;
+    case 5:
+        display_text = "TGIF!";
+        break;
+    case 6:
+        display_text = "It's the weekend!";
+        break;
+    case 7:
+        display_text = "It's the weekend!";
+        break;
+    default:
+        display_text = "Integer not in Range";
+        break;
+}
+//displays the correct text
+Console.WriteLine(display_text);

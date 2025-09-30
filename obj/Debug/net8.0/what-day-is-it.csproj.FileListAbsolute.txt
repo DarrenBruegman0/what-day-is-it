@@ -1,0 +1,14 @@
+C:\Users\db1027061\OneDrive - Ozarks Technical Community College\Documents\GitHub\what-day-is-it\bin\Debug\net8.0\what-day-is-it.exe
+C:\Users\db1027061\OneDrive - Ozarks Technical Community College\Documents\GitHub\what-day-is-it\bin\Debug\net8.0\what-day-is-it.deps.json
+C:\Users\db1027061\OneDrive - Ozarks Technical Community College\Documents\GitHub\what-day-is-it\bin\Debug\net8.0\what-day-is-it.runtimeconfig.json
+C:\Users\db1027061\OneDrive - Ozarks Technical Community College\Documents\GitHub\what-day-is-it\bin\Debug\net8.0\what-day-is-it.dll
+C:\Users\db1027061\OneDrive - Ozarks Technical Community College\Documents\GitHub\what-day-is-it\bin\Debug\net8.0\what-day-is-it.pdb
+C:\Users\db1027061\OneDrive - Ozarks Technical Community College\Documents\GitHub\what-day-is-it\obj\Debug\net8.0\what-day-is-it.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\db1027061\OneDrive - Ozarks Technical Community College\Documents\GitHub\what-day-is-it\obj\Debug\net8.0\what-day-is-it.AssemblyInfoInputs.cache
+C:\Users\db1027061\OneDrive - Ozarks Technical Community College\Documents\GitHub\what-day-is-it\obj\Debug\net8.0\what-day-is-it.AssemblyInfo.cs
+C:\Users\db1027061\OneDrive - Ozarks Technical Community College\Documents\GitHub\what-day-is-it\obj\Debug\net8.0\what-day-is-it.csproj.CoreCompileInputs.cache
+C:\Users\db1027061\OneDrive - Ozarks Technical Community College\Documents\GitHub\what-day-is-it\obj\Debug\net8.0\what-day-is-it.dll
+C:\Users\db1027061\OneDrive - Ozarks Technical Community College\Documents\GitHub\what-day-is-it\obj\Debug\net8.0\refint\what-day-is-it.dll
+C:\Users\db1027061\OneDrive - Ozarks Technical Community College\Documents\GitHub\what-day-is-it\obj\Debug\net8.0\what-day-is-it.pdb
+C:\Users\db1027061\OneDrive - Ozarks Technical Community College\Documents\GitHub\what-day-is-it\obj\Debug\net8.0\what-day-is-it.genruntimeconfig.cache
+C:\Users\db1027061\OneDrive - Ozarks Technical Community College\Documents\GitHub\what-day-is-it\obj\Debug\net8.0\ref\what-day-is-it.dll
