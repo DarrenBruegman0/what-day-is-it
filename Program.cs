@@ -1,11 +1,11 @@
 ﻿//list all options
 Console.WriteLine("1)      Monday");
-Console.WriteLine("1)     Tuesday");
-Console.WriteLine("1)   Wednesday");
-Console.WriteLine("1)    Thursday");
-Console.WriteLine("1)      Friday");
-Console.WriteLine("1)    Saturday");
-Console.WriteLine("1)      Sunday");
+Console.WriteLine("2)     Tuesday");
+Console.WriteLine("3)   Wednesday");
+Console.WriteLine("4)    Thursday");
+Console.WriteLine("5)      Friday");
+Console.WriteLine("6)    Saturday");
+Console.WriteLine("7)      Sunday");
 //input the specified option
 Console.Write("What day is it (Enter the Number)?   ");
 int num = Convert.ToInt32(Console.ReadLine());
