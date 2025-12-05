@@ -7,8 +7,13 @@ Console.WriteLine("5)      Friday");
 Console.WriteLine("6)    Saturday");
 Console.WriteLine("7)      Sunday");
 //input the specified option
+string pnum = "";
+int num = 0;
+while (!int.TryParse(pnum, out num) || num < 1 || num > 7)
+{
 Console.Write("What day is it (Enter the Number)?   ");
-int num = Convert.ToInt32(Console.ReadLine());
+ pnum = Console.ReadLine();
+}
 string display_text;
 
 /*

@@ -12,3 +12,18 @@ C:\Users\db1027061\OneDrive - Ozarks Technical Community College\Documents\GitHu
 C:\Users\db1027061\OneDrive - Ozarks Technical Community College\Documents\GitHub\what-day-is-it\obj\Debug\net8.0\what-day-is-it.pdb
 C:\Users\db1027061\OneDrive - Ozarks Technical Community College\Documents\GitHub\what-day-is-it\obj\Debug\net8.0\what-day-is-it.genruntimeconfig.cache
 C:\Users\db1027061\OneDrive - Ozarks Technical Community College\Documents\GitHub\what-day-is-it\obj\Debug\net8.0\ref\what-day-is-it.dll
+C:\Users\TBNRD\Downloads\projects\text rpg\what-day-is-it\source\bin\Debug\net8.0\what-day-is-it.exe
+C:\Users\TBNRD\Downloads\projects\text rpg\what-day-is-it\source\bin\Debug\net8.0\what-day-is-it.deps.json
+C:\Users\TBNRD\Downloads\projects\text rpg\what-day-is-it\source\bin\Debug\net8.0\what-day-is-it.runtimeconfig.json
+C:\Users\TBNRD\Downloads\projects\text rpg\what-day-is-it\source\bin\Debug\net8.0\what-day-is-it.dll
+C:\Users\TBNRD\Downloads\projects\text rpg\what-day-is-it\source\bin\Debug\net8.0\what-day-is-it.pdb
+C:\Users\TBNRD\Downloads\projects\text rpg\what-day-is-it\source\obj\Debug\net8.0\what-day-is-it.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TBNRD\Downloads\projects\text rpg\what-day-is-it\source\obj\Debug\net8.0\what-day-is-it.AssemblyInfoInputs.cache
+C:\Users\TBNRD\Downloads\projects\text rpg\what-day-is-it\source\obj\Debug\net8.0\what-day-is-it.AssemblyInfo.cs
+C:\Users\TBNRD\Downloads\projects\text rpg\what-day-is-it\source\obj\Debug\net8.0\what-day-is-it.csproj.CoreCompileInputs.cache
+C:\Users\TBNRD\Downloads\projects\text rpg\what-day-is-it\source\obj\Debug\net8.0\what-day-is-it.sourcelink.json
+C:\Users\TBNRD\Downloads\projects\text rpg\what-day-is-it\source\obj\Debug\net8.0\what-day-is-it.dll
+C:\Users\TBNRD\Downloads\projects\text rpg\what-day-is-it\source\obj\Debug\net8.0\refint\what-day-is-it.dll
+C:\Users\TBNRD\Downloads\projects\text rpg\what-day-is-it\source\obj\Debug\net8.0\what-day-is-it.pdb
+C:\Users\TBNRD\Downloads\projects\text rpg\what-day-is-it\source\obj\Debug\net8.0\what-day-is-it.genruntimeconfig.cache
+C:\Users\TBNRD\Downloads\projects\text rpg\what-day-is-it\source\obj\Debug\net8.0\ref\what-day-is-it.dll
